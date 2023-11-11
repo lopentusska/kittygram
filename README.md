@@ -1,6 +1,6 @@
 # Kittygram
 
-### App description
+### A simple app to share your cat with the world.
 
 ## Used technologies:
 #### Django
